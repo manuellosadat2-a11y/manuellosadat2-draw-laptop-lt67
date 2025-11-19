@@ -145,7 +145,7 @@ main{
 
 .content{
     max-width: 40rem;
-    margin-left: 10%;
+    margin-left: 5%;
     z-index: 999;
 }
 
@@ -319,7 +319,11 @@ margin-top: 2rem;
     position: absolute;
     top: 0;
     right: -13%;
-    top: -20%;
+    top: -30%;
     width: 55rem;
     pointer-events: none;
 }
+
+
+
+        
